@@ -1,0 +1,13 @@
+.delete {
+    float: right;
+    display: flex;
+    
+  
+}
+
+ul li div.checked {
+    
+    text-decoration: line-through;
+}
+
+
